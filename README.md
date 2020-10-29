@@ -18,7 +18,7 @@ lyrdropdown.ol.min.css
 
 - El constructor se inicializa con un JSON de options con los siguientes atributos:
 
-- **position**. Indica la posición donde se mostrará el plugin.
+- **position**. Indica la posición donde se mostrará el plugin:
   - 'TL':top left
   - 'TR':top right (default)
   - 'BL':bottom left
